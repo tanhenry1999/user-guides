@@ -1,0 +1,9 @@
+title: Jekyll Starter
+baseurl: "/jekyll-starter" # the subpath of your site, e.g. /blog
+
+# Build settings
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-feed
+
+color_scheme: csun
