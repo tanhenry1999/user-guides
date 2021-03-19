@@ -3,7 +3,7 @@ title: Gmail
 nav_order: 10
 ---
 ## Introduction
-The purpose of this WiKi is to guide you through the process to change certain settings and features in your AS Gmail account.
+The purpose of this wiki is to guide you through the process to change certain settings and features in your AS Gmail account.
 
 ## Display Name
 Your display name is the name that appears as the sender's name when you send emails from your AS Gmail account. Display names are configured by Associated Students IT, but users have the option of changing their display name separately. If your display name is incorrect, follow the steps below to check and change your display name.
