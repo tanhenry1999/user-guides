@@ -16,6 +16,7 @@ The purpose of this wiki is to guide the user through the process of changing ce
    ![iOS Camera](./iOS Camera.jpb)
  
 3. Tap on "Format".
+
    ![iOS Format](./iOS Format.jpg)
 
 4. Select "Most Compatible".
