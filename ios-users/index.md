@@ -13,7 +13,7 @@ The purpose of this wiki is to guide the user through the process of changing ce
 
 2. Scroll down, find "Camera", and tap on it..
 
-   ![iOS Camera](./iOS Camera.jpb)
+   ![iOS Camera](./iOS%20Camera.jpg)
  
 3. Tap on "Format".
 
