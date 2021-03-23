@@ -9,17 +9,17 @@ The purpose of this wiki is to guide the user through the process of changing ce
 
 1. Go to your iPhone home screen and tap on the "Settings" icon.
 
-   ![gmail settings](./01_Settings.jpg)
+   ![iOS_Homescreen](./iOS Homescreen.jpg)
 
 2. Scroll down, find "Camera", and tap on it..
 
-   ![gmail accounts tab](./02_Accounts_Tab.jpg)
+   ![iOS Camera](./iOS Camera.jpb)
  
 3. Tap on "Format".
-   ![gmail edit info](./03_Edit_Info.jpg)
+   ![iOS Format](./iOS Format.jpg)
 
 4. Select "Most Compatible".
 
-   ![gmail change name](./04_Change_Name.jpg)
+   ![iOS Compatible](./iOS Compatible.jpg)
 
 5. The default photo settings have now been changed to JPEG. You may now exit settings and use your iPhone.
