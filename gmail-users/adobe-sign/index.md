@@ -3,29 +3,28 @@ title: Gmail
 nav_order: 10
 ---
 ## Introduction
-The purpose of this wiki is to guide you through the process to change certain settings and features in your AS Gmail account.
+The purpose of this article is to teach users how to use Adobe Sign.
 
-## Display Name
-Your display name is the name that appears as the sender's name when you send emails from your AS Gmail account. Display names are configured by Associated Students IT, but users have the option of changing their display name separately. If your display name is incorrect, follow the steps below to check and change your display name.
+### How to Login to Adobe Sign
 
-### Check and Change Your Display Name
+1. Go to https://acrobat.adobe.com/us/en/sign.html and click on “Sign In”
 
-1. Log into your Associated Students gmail account. From your inbox, click on the "gear" in the upper-right corner of the screen, then click on "Settings".
+   ![adobesign_1](./adobesign_1.png)
 
-   ![gmail settings](./01_Settings.jpg)
+2. Input your CSUN email address
 
-2. Click on the "Accounts" tab.
-
-   ![gmail accounts tab](./02_Accounts_Tab.jpg)
+   ![adobesign_2](./adobesign_2.png)
  
-3. Look for your display name (example circled in red). If this is incorrect, click on "Edit Info".
+3. After you input your CSUN email address, click on the password field
 
-   ![gmail edit info](./03_Edit_Info.jpg)
+   ![adobesign_3](./adobesign_3.png)
 
-4. Click the upper radio button, which should have your correct display name next to it. Then click "Save Changes". _NOTE: if the upper option is NOT correct, call AS IT at x8888_
+4. You will be taken to another screen that will ask you to select an account. Select “Company or School Account”
 
-   ![gmail change name](./04_Change_Name.jpg)
+   ![adobesign_4](./adobesign_4.png)
 
-5. Check that your display name has changed to the correct name (location circled in red).
+5. You will be taken to the CSUN login page. Input your CSUN Credentials to login to Adobe Sign
 
-   ![gmail verify](./05_Verify.jpg)
+   ![adobesign_5](./adobesign_5.png)
+   
+6. You are now logged in to Adobe Sign.
