@@ -13,7 +13,7 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
 2. Input your CSUN email address
 
-   ![adobesign_2](./adobesign_2.png)
+   ![AdobeSign_2](./AdobeSign_2.png)
  
 3. After you input your CSUN email address, click on the password field
 
