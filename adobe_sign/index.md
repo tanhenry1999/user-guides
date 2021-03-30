@@ -28,3 +28,5 @@ The purpose of this article is to teach users how to use Adobe Sign.
    ![AdobeSign_5](./AdobeSign_5.png)
    
 6. You are now logged in to Adobe Sign.
+
+   ![AdobeSign_6](./AdobeSign_6.png)
