@@ -9,7 +9,7 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
 1. Go to https://acrobat.adobe.com/us/en/sign.html and click on “Sign In”
 
-   ![adobesign_1](./adobesign_1.png)
+   ![AdobeSign_1](./adobesign_1.png)
 
 2. Input your CSUN email address
 
