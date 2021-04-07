@@ -2,7 +2,7 @@
 title: Content Managers
 nav_order: 10
 ---
-## Introductionn
+## Introduction
 _________________________________________________________________________________________________
 The Matador Information Network Display screens (herein referred to as “MIND”) are a network of 18 digital signage screens that are installed in various locations throughout the CSUN campus. These signage screens provide the CSUN community with information regarding campus events, resources, and promotions.
 
@@ -11,9 +11,11 @@ There are a total of 28 digital signage screens spread across the campus. Associ
 This guide goes over the process to log into the MIND server (known as “Airbean”) and some of the functions of Content Manager. It also includes the steps to add, schedule, remove, delete, and otherwise update the content on the various templates that powers the MIND screens.
 
 ## Network Diagram
+_________________________________________________________________________________________________
 This Microsoft Paint diagram visualizes the relationship between your office PC, the MIND share, the Airbean server, and the player screens. Content Manager is a client-server application that is hosted on Airbean and access via remote connection from your office PC. Airbean (and Content Manager by association) cannot see any files on your office PC, which is why content must be uploaded from your office PC to the MIND share.
 
 ### Connecting to Airbean
+_________________________________________________________________________________________________
 Connecting to Airbean is the same process, regardless of which department you are from. It differs only in the operating system that you are using.
 
 ### Connecting from MacOS
@@ -34,6 +36,7 @@ Connecting to Airbean is the same process, regardless of which department you ar
 The rest of the steps are the same, regardless of the OS you're using. Proceed to Opening Content Manager
 
 ### Connecting from Windows 10
+
 1. Click the "Start" button and start typing "Remote Desktop Connection". Click on Remote Desktop Connection.
 
 2. In the "Remote Desktop Connection" window, enter "airbean" for the computer and click "Connect".
@@ -57,6 +60,7 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 
 
 ### Mapping the MIND Share
+_________________________________________________________________________________________________
 The MIND shared drive is where all deployed content should be copied to. The MIND share is continuously available to Content Manager, whereas your local computer is not.
 
 To copy content from your local computer to the MIND share, you will need to map the shared drive. The steps differ based on your local computer's operating system.
@@ -87,6 +91,7 @@ The MIND share will only need to be mapped once per user, per computer. After it
 5. After opening the MIND share, double-click on your department's folder. Copy any content items from your local computer to your department's folder on the Mind share.
 
 ### Overview of the Content Manager Home Screen
+_________________________________________________________________________________________________
 After you log into Content Manager, you will see a screen similar to that shown below (this will vary depending on your specific department). Below the screen shot is a breakdown of each item that is pointed out in the screen shot.
 
 ###### Content Buttons
@@ -104,6 +109,7 @@ Starting from the bottom, a single content item is scheduled to a region. That r
 The schedule visually summarizes when a specific template or content item is set to play. A single cell within the schedule represents one full 24-hour day. The vertical, dotted red line indicates the current time.
 
 ### Managing Content (General Process)
+_________________________________________________________________________________________________
 Managing content in Content Manager can be summarized as the following two types:
   - Media items (posters and videos)
   - Event calendar items
