@@ -51,7 +51,7 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 3. You should now be on the landing page of Content Manager.
 The rest of the steps are the same, regardless of the OS you're using. Proceed to Opening Content Manager
 
-###### Opening Content Manager
+**Opening Content Manager**
 1. From Airbean's desktop, click the "Start" button, then click "All Programs", "Four Winds Interactive", and finally "Content Manager".
 
 2. 10. If this is your first time logging into Content Manager, you will be prompted to open a database. Expand “Signage on Airbean/SQLExpress” and select the "Cal State Northridge" database, then click "Open".
