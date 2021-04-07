@@ -35,9 +35,9 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
 1. Click "Send" at the top of the page or click on "Request Signatures"
    
-   ![AdobeSign_7](./AdobeSign_7.png)
+   ![AdobeSign_7](./AdobeSign_7.jpg)
    
-   ![AdobeSign_8](./AdobeSign_8.png)
+   ![AdobeSign_8](./AdobeSign_8.jpg)
 
 2. You will be taken to this page to begin creating your document
 
