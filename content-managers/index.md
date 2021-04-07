@@ -2,7 +2,7 @@
 title: Content Managers
 nav_order: 10
 ---
-## Introduction <br />
+## Introduction
 _________________________________________________________________________________________________
 The Matador Information Network Display screens (herein referred to as “MIND”) are a network of 18 digital signage screens that are installed in various locations throughout the CSUN campus. These signage screens provide the CSUN community with information regarding campus events, resources, and promotions.
 
