@@ -79,4 +79,47 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
    ![AdobeSign_18](./AdobeSign_18.png)
 
+### How to Use Fill & Sign
+The purpose of this section is to show users how to upload a document or form to sign. The end result will be a PDF document that can be used to send to other users.
+1. Click the "Fill and sign a document" icon at the bottom of the page
+
+   ![AdobeSign_19](./AdobeSign_19.png)
+
+2. You will be taken to this page to create your document
+
+   ![AdobeSign_20](./AdobeSign_20.png)
+
+3. Add the file that needs to be signed
+
+   ![AdobeSign_21](./AdobeSign_21.png)
+
+4. Name the agreement. The document should be “ASI-Department Name-Name of document” Click “Next” to process the document
+
+   ![AdobeSign_22](./AdobeSign_22.png)
+
+5. Once the document has been processed, you will be taken to this page
+
+   ![AdobeSign_23](./AdobeSign_23.png)
+
+6. Click “Sign” to select a signature or initial to use for the document
+
+   ![AdobeSign_24](./AdobeSign_24.png)
+
+7. Click on your signature and drag it into the document. Move the signature to where the document needs to be signed
+
+   ![AdobeSign_25](./AdobeSign_25.png)
+
+8. Click “Done” to complete the document. NOTE: Once the document is completed, it can’t be changed
+
+   ![AdobeSign_26](./AdobeSign_26.png)
+
+9. Once the document is processed, you will be redirected to this page to indicate that the document has been successfully created and signed.
+
+   ![AdobeSign_27](./AdobeSign_27.png)
+
+10. To access the completed document, it can be downloaded from this page. Another alternative is to find the document in the "Manage Tab" at the top of the screen.
+
+   ![AdobeSign_28](./AdobeSign_28.png)
+
+
 
