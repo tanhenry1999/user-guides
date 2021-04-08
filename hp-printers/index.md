@@ -20,7 +20,6 @@ The following printers are capable of scanning double-sided documents automatica
 	-Recycling 525
 
 **Using the ADF**
-
 These instructions were created using a 525 as an example. The 6040 is a similar process.
 1. Load your documents into the ADF on the top of the printer. Please note that the ADF pulls pages from the top of the stack down, so the first page of your document should be on top of the stack, and the last page on the bottom of the stack.
 2. Tap the "Save to Network Folder" icon.
@@ -68,7 +67,6 @@ These instructions were created using a 525 as an example. The 6040 is a similar
 	![HP-11](./images/HP-11.jpg)
 
 **Using the Flatbed**
-
 The flatbed will use a feature called the "Job Build" function. The job build function tells the scanner to pause after scanning a single page. It will then wait until you tap "Scan" to scan the next page. This gives you time to remove the first page from the flatbed, prepare the next page, place it on the flatbed, and scan it. Once the last page is scanned, then the printer will combine all of your scans into a single PDF.
 
 This Job Build method also works with the ADF. However, it is highly recommended to use the automatic double-sided scanning described in Using the ADF above. If your documents fit in the ADF, this Job Build method serves no benefit as it takes much more time for the same result.
@@ -118,7 +116,6 @@ This Job Build method also works with the ADF. However, it is highly recommended
 12. The scanner will then say "ready" then say "scanning page 1".
 
 	![HP-22](./images/HP-22.jpg)
-
 	![HP-23](./images/HP-23.jpg)
 
 13. The scanner will pause after the first scan. Get your next page positioned on the flatbed glass and tap "Scan".
