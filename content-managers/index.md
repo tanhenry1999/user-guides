@@ -54,7 +54,7 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 **Opening Content Manager**
 1. From Airbean's desktop, click the "Start" button, then click "All Programs", "Four Winds Interactive", and finally "Content Manager".
 
-2. 10. If this is your first time logging into Content Manager, you will be prompted to open a database. Expand “Signage on Airbean/SQLExpress” and select the "Cal State Northridge" database, then click "Open".
+2. If this is your first time logging into Content Manager, you will be prompted to open a database. Expand “Signage on Airbean/SQLExpress” and select the "Cal State Northridge" database, then click "Open".
 
 3. You should now be on the landing page of Content Manager.
 
@@ -66,6 +66,7 @@ The MIND shared drive is where all deployed content should be copied to. The MIN
 To copy content from your local computer to the MIND share, you will need to map the shared drive. The steps differ based on your local computer's operating system.
 
 **MacOS**
+
 The MIND share will need to be manually reconnected every time the computer is restarted or you log out and log back in. However, the server name can be saved to avoid having to re-type it each time.
 1. Open Finder, then in the menu bar, click on "Go" then click on "Connect to Server"
 
@@ -78,6 +79,7 @@ The MIND share will need to be manually reconnected every time the computer is r
 5. Under "shared", click on "Bakedbean" then "Mind" then your respective department's folder. Copy any content items from your local computer to your department's folder on the Mind share.
 
 **Windows**
+
 The MIND share will only need to be mapped once per user, per computer. After it is mapped once, Windows will remember it and reconnect to it whenever the computer is restarted.
 
 1. Open the File Explorer by clicking on the "Folder" icon on the task bar.
@@ -95,17 +97,21 @@ ________________________________________________________________________________
 After you log into Content Manager, you will see a screen similar to that shown below (this will vary depending on your specific department). Below the screen shot is a breakdown of each item that is pointed out in the screen shot.
 
 **Content Buttons**
+
 These are used to add new content items to Content Manager.
 
 **Content Library**
+
 This is where content items that were added to Content Manager are stored and organized. This includes all items, including content items that are currently scheduled, as well as those that are not.
 
 **Network Overview**
+
 The Network Overview displays the breakdown of the entire network of player screens. The network is organized in a hierarchical format. It breaks down as:
 "World" (Cal State Northridge) > Department (red buildings) > Player (blue rectangle) > Template (green rectangle) > Region (yellow square) > content item (various).
 Starting from the bottom, a single content item is scheduled to a region. That region is part of a template. That template is scheduled to play on a player. That player is part of a department. That department is part of Cal State Northridge.
 
 **Schedule**
+
 The schedule visually summarizes when a specific template or content item is set to play. A single cell within the schedule represents one full 24-hour day. The vertical, dotted red line indicates the current time.
 
 ### Managing Content (General Process)
@@ -120,6 +126,7 @@ Specific departments may have additional content items, but generally speaking, 
   - Static text headers
 
 **Adding a Media Item**
+
 This guide uses an example OU for demonstration purposes, but the process is nearly identical for other departments except AS Marketing.
 1. On your office/local computer, open your department's folder (as described in the section Mapping the MIND Share). Then copy your content item from your office computer to the MIND share.
 
@@ -151,6 +158,7 @@ For this example, we will be adding our new content item to the main area region
 14. We will now need to deploy. See the section Deploying Content.
 
 **Removing a Media Item from the Schedule**
+
 1. Connect to Airbean as described in the section Connecting to Airbean and open the Content Manager as described in the section Opening Content Manager.
 
 2. In Content Manager, expand the Network Overview and right-click the content item that you wish to remove. Click "Remove".
@@ -158,6 +166,7 @@ For this example, we will be adding our new content item to the main area region
 3. We will now need to deploy. See the section Deploying Content.
 
 **Adding an Event to the Events Calendar**
+
 The information for each department's Events Calendar is stored on a CSV file located on the MIND share. Each department with an Events Calendar has their own CSV file. Content Manager then interprets the information and formats it automatically with the desired font and layout.
 1. Connect to Airbean as described in the section Connecting to Airbean. Open the Content Manager as described in the section Opening Content Manager.
 2. Locate and open your department's CSV file on the MIND share.
@@ -165,6 +174,7 @@ The information for each department's Events Calendar is stored on a CSV file lo
 4. We will now need to deploy. See the section Deploying Content.
 
 **Removing an Event from the Events Calendar**
+
 The information for each department's Events Calendar is stored on a CSV file located on the MIND share. Each department with an Events Calendar has their own CSV file. Content Manager then interprets the information and formats it automatically with the desired font and layout.
 1. Connect to Airbean as described in the section Connecting to Airbean. Open the Content Manager as described in the section Opening Content Manager.
 2. Locate and open your department's CSV file on the MIND share.
@@ -172,6 +182,7 @@ The information for each department's Events Calendar is stored on a CSV file lo
 4. We will now need to deploy. See the section Deploying Content.
 
 **Deploying Content**
+
 Any changes that are done in Content Manager and/or the Events CSV must be followed by deploying. Deploying pushes the changes (that we've done in Content Manager) across the CSUN network and copies them and any content items to the player screen's local hard drive. In the event of network failure, the player screen will continue to play the last deployment that it received, but it will not be able to receive new deployments until network access is reestablished.
 1. In Content Manager, find your department's OU in the Network Overview. Right-click your department's OU and click "Deploy".
 2. If the Save Changes window appears, click "Save Changes". If it does not appear then skip to step 3, as your changes were automatically saved (Content Manager periodically saves changes as you work).
