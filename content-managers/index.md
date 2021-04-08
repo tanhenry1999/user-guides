@@ -93,7 +93,7 @@ To copy content from your local computer to the MIND share, you will need to map
 The MIND share will need to be manually reconnected every time the computer is restarted or you log out and log back in. However, the server name can be saved to avoid having to re-type it each time.
 1. Open Finder, then in the menu bar, click on "Go" then click on "Connect to Server"
 
-  ![Content_Managers_1](./images/Content_Managers_16.jpg)
+  ![Content_Managers_1](./images/Content_Managers_16.png)
 
 2. Enter the server address exactly as show. Click the "+" button to save the path. Then click "Connect".
 
