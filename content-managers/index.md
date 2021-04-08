@@ -22,16 +22,6 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 ### Connecting from MacOS
 
-1. Sup
-
-![Content_Managers_2](./Content_Managers_2.png)
-
-2. Yes
-
-![Content_Managers_3](./Content_Managers_3.png)
-
-3. Yes
-
 1. Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
 
   ![Content_Managers_1](./Content_Managers_2.png)
