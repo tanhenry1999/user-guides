@@ -7,7 +7,7 @@ nav_order: 10
 File Browser allows your iPad to connect directly to the X-Drive over WiFi. This gives the capability to copy almost any sort of file, including photos and videos, from your iPad straight to the X-Drive. This document goes over how to do just that, as well as using some of File Browser’s other features.
 
 ## Initial Setup
-*The steps below are for your reference only. Your IT department will complete this portion.*
+**The steps below are for your reference only. Your IT department will complete this portion.**
 1. Open the App. You should see the screen below after tapping “Continue” on the welcome message:
 
 	![iPad_1](./images/iPad-1.png)
