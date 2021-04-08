@@ -22,17 +22,17 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 ### Connecting from MacOS
 
-1. Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
+1. Go to your iPhone home screen and tap on the "Settings" icon.
 
-  ![Content_Managers_1](./images/Content_Managers_2.png)
+   ![iOS_Homescreen](./iOS%20Homescreen.jpg)
 
-2. Click on the "New" button.
+2. Scroll down, find "Camera", and tap on it..
 
-  ![Content_Managers_1](./images/Content_Managers_3.jpg)
+   ![iOS Camera](./iOS%20Camera.jpg)
+ 
+3. Tap on "Format".
 
-3. In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
-
-  ![Content_Managers_1](./images/Content_Managers_4.jpg)
+   ![iOS Format](./iOS%20Format.jpg)
 
 4. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
 
