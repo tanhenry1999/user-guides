@@ -21,31 +21,32 @@ ________________________________________________________________________________
 Connecting to Airbean is the same process, regardless of which department you are from. It differs only in the operating system that you are using.
 
 ### Connecting from MacOS
-1. Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
+
+ Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
 
   ![Content_Managers_1](./images/Content_Managers_2.png)
 
-2. Click on the "New" button.
+ Click on the "New" button.
 
   ![Content_Managers_1](./images/Content_Managers_3.jpg)
 
-3. In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
+ In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
 
   ![Content_Managers_1](./images/Content_Managers_4.jpg)
 
-4. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
+ You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
 
   ![Content_Managers_1](./images/Content_Managers_6.jpg)
 
-5. Click “continue” when the security warning appears.
+ Click “continue” when the security warning appears.
 
   ![Content_Managers_1](./images/Content_Managers_7.jpg)
 
-6. Enter your "short" CSUN username and regular password when prompted, then click “OK”
+ Enter your "short" CSUN username and regular password when prompted, then click “OK”
 
   ![Content_Managers_1](./images/Content_Managers_8.jpg)
 
-7. You should now be on Airbean's desktop, as shown below.
+ You should now be on Airbean's desktop, as shown below.
 
   ![Content_Managers_1](./images/Content_Managers_9.jpg)
 
