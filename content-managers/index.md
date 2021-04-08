@@ -35,19 +35,19 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 4. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
 
-  ![Content_Managers_1](./images/Content_Managers_5.jpg)
+  ![Content_Managers_1](./images/Content_Managers_6.jpg)
 
 5. Click “continue” when the security warning appears.
 
-  ![Content_Managers_1](./images/Content_Managers_6.jpg)
+  ![Content_Managers_1](./images/Content_Managers_7.jpg)
 
 6. Enter your "short" CSUN username and regular password when prompted, then click “OK”
 
-  ![Content_Managers_1](./images/Content_Managers_7.jpg)
+  ![Content_Managers_1](./images/Content_Managers_8.jpg)
 
 7. You should now be on Airbean's desktop, as shown below.
 
-  ![Content_Managers_1](./images/Content_Managers_8.jpg)
+  ![Content_Managers_1](./images/Content_Managers_9.jpg)
 
 The rest of the steps are the same, regardless of the OS you're using. Proceed to Opening Content Manager
 
@@ -55,7 +55,7 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 
 1. Click the "Start" button and start typing "Remote Desktop Connection". Click on Remote Desktop Connection.
 
-  ![Content_Managers_1](./images/Content_Managers_9.jpg)
+  ![Content_Managers_1](./images/Content_Managers_10.jpg)
 
 2. In the "Remote Desktop Connection" window, enter "airbean" for the computer and click "Connect".
 
