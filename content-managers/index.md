@@ -117,7 +117,7 @@ The MIND share will only need to be mapped once per user, per computer. After it
 
 1. Open the File Explorer by clicking on the "Folder" icon on the task bar.
 
-  ![Content_Managers_1](./images/Content_Managers_21.png)
+  ![Content_Managers_1](./images/Content_Managers_21.jpg)
 
 2. Click on "This PC" on the left pane, then click the "Computer" tab at the top, then click "Map Network Drive" and "Map Network Drive".
 
