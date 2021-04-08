@@ -27,7 +27,6 @@ Connecting to Airbean is the same process, regardless of which department you ar
   ![Content_Managers_1](./images/Content_Managers_2.png)
 
 2. Click on the "New" button.
-3. 
 
   ![Content_Managers_1](./images/Content_Managers_3.jpg)
 
@@ -63,12 +62,11 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 
   ![Content_Managers_1](./images/Content_Managers_11.jpg)
 
-3. Enter your "short" CSUN username and regular password when prompted, then click “OK”
+3. Enter your "short" CSUN username and regular password when prompted, then click “OK”.
 
   ![Content_Managers_1](./images/Content_Managers_12.jpg)
-
+ 
 The rest of the steps are the same, regardless of the OS you're using. Proceed to Opening Content Manager
-
 
 **Opening Content Manager**
 1. From Airbean's desktop, click the "Start" button, then click "All Programs", "Four Winds Interactive", and finally "Content Manager".
@@ -82,7 +80,6 @@ The rest of the steps are the same, regardless of the OS you're using. Proceed t
 3. You should now be on the landing page of Content Manager.
 
   ![Content_Managers_1](./images/Content_Managers_15.jpg)
-
 
 ### Mapping the MIND Share
 _________________________________________________________________________________________________
@@ -208,7 +205,7 @@ This guide uses an example OU for demonstration purposes, but the process is nea
 9. Note how the URL file path is now filled in. Click "OK"
 
   ![Content_Managers_1](./images/Content_Managers_34.jpg)
-
+ 
 10. Your new content item will now appear in the Content Library's root directory. Click and drag your content item to your respective department's Content Library folder. Follow the path of the red arrow to avoid selecting other items. Please note that AS-IT reserves the right to move or delete any content items that are left in the root directory.
 
   ![Content_Managers_1](./images/Content_Managers_35.jpg)
@@ -218,7 +215,7 @@ For this example, we will be adding our new content item to the main area region
 
   ![Content_Managers_1](./images/Content_Managers_36.jpg)
 
-12. Click and drag your content item from the Content Library to the region of the template. Follow the red arrow to avoid selecting other items.
+12. Click and drag your content item from the Content Library to the region of the template. Follow the red arrow to avoid selecting other items
 
   ![Content_Managers_1](./images/Content_Managers_37.jpg)
 
@@ -264,6 +261,7 @@ Any changes that are done in Content Manager and/or the Events CSV must be follo
 2. If the Save Changes window appears, click "Save Changes". If it does not appear then skip to step 3, as your changes were automatically saved (Content Manager periodically saves changes as you work).
 
   ![Content_Managers_1](./images/Content_Managers_41.jpg)
+
 
 3. The "Deploy" window will now open and you can see the content item(s) being copied to the player(s). Once "All deployments were successful" appears, click "Close".
 
