@@ -26,22 +26,6 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
   ![Content_Managers_1](./Content_Managers_2.png)
 
-2. dsa
-
-  ![Content_Managers_1](./Content_Managers_3.jpg)
-
-3. dsadsa
-
-  ![Content_Managers_1](./Content_Managers_4.jpg) 
- 
-4. dsa
-
-  ![Content_Managers_1](./images/Content_Managers_6.jpg)
-
-5. dsa
-
-  ![Content_Managers_1](./images/Content_Managers_2.png)
-
 2. Click on the "New" button.
 
   ![Content_Managers_1](./images/Content_Managers_3.jpg)
