@@ -120,6 +120,7 @@ This section goes over additional features of the File Browser app that we found
 
 
 **Adding a Folder**
+
 A new folder can be created anywhere, same as a regular Windows computer.
 1. Open the File Browser app and go to the folder that you want to create a new sub-folder in. Then tap the “+” icon and tap “Add new folder”
 
@@ -135,6 +136,7 @@ A new folder can be created anywhere, same as a regular Windows computer.
 
 
 **Bookmarks**
+
 Bookmarks allow you to “jump” quickly to a specific folder, avoiding the need to tediously tap through several sub-folders.
 1. After you’ve signed in, go to the folder that you want to bookmark (the name at the top is the name of the folder that you’re currently in). When you are in the folder that you want to bookmark, tap the “Bookmark” icon to bring up the bookmark menu.
 
@@ -153,6 +155,7 @@ Bookmarks allow you to “jump” quickly to a specific folder, avoiding the nee
 	![iPad_32](./images/iPad-32.png)
 
 **Refreshing the Camera Roll**
+
 If you take photos with the iPad while still signed into the File Browser app, then the new photos may not appear in the Camera Roll. To have them appear, refresh the folder: (This also works for any folder, not just the Camera Roll. The process is the same.)
 
 1. Open your Camera Roll by tapping Photo Library > Camera Roll. Then tap “Refresh”.
@@ -166,6 +169,7 @@ If you take photos with the iPad while still signed into the File Browser app, t
 
 
 **Changing the Sort Order and Viewing Options**
+
 By default, the files in a folder are sorted by "date modified", in a "list" format.
 To change the sort order of items in a folder, simply tap the “sort” icon” and tap the appropriate options.
 
