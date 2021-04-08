@@ -22,31 +22,31 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 ### Connecting from MacOS
 
- Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
+1. Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
 
   ![Content_Managers_1](./images/Content_Managers_2.png)
 
- Click on the "New" button.
+2. Click on the "New" button.
 
   ![Content_Managers_1](./images/Content_Managers_3.jpg)
 
- In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
+3. In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
 
   ![Content_Managers_1](./images/Content_Managers_4.jpg)
 
- You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
+4. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
 
   ![Content_Managers_1](./images/Content_Managers_6.jpg)
 
- Click “continue” when the security warning appears.
+5. Click “continue” when the security warning appears.
 
   ![Content_Managers_1](./images/Content_Managers_7.jpg)
 
- Enter your "short" CSUN username and regular password when prompted, then click “OK”
+6. Enter your "short" CSUN username and regular password when prompted, then click “OK”
 
   ![Content_Managers_1](./images/Content_Managers_8.jpg)
 
- You should now be on Airbean's desktop, as shown below.
+7. You should now be on Airbean's desktop, as shown below.
 
   ![Content_Managers_1](./images/Content_Managers_9.jpg)
 
