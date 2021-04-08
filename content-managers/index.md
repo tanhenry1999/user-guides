@@ -101,7 +101,7 @@ The MIND share will need to be manually reconnected every time the computer is r
 
 3. Click the "registered user" radio button. Enter your short CSUN username and regular password. Then click "Connect".
 
-  ![Content_Managers_1](./images/Content_Managers_18.jpng)
+  ![Content_Managers_1](./images/Content_Managers_18.png)
 
 4. Open Finder then click "File" then "New Finder Window".
 
