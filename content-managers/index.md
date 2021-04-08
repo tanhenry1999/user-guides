@@ -261,11 +261,11 @@ Any changes that are done in Content Manager and/or the Events CSV must be follo
 
 2. If the Save Changes window appears, click "Save Changes". If it does not appear then skip to step 3, as your changes were automatically saved (Content Manager periodically saves changes as you work).
 
-  ![Content_Managers_1](./images/Content_Managers_41.g)
+  ![Content_Managers_1](./images/Content_Managers_41.jpg)
 
 3. The "Deploy" window will now open and you can see the content item(s) being copied to the player(s). Once "All deployments were successful" appears, click "Close".
 
-  ![Content_Managers_1](./images/Content_Managers_42jpg)
+  ![Content_Managers_1](./images/Content_Managers_42.jpg)
 
 4. The deployment is now complete. Close Content Manager and log off of Airbean.
 
