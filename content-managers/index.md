@@ -15,7 +15,7 @@ ________________________________________________________________________________
 This Microsoft Paint diagram visualizes the relationship between your office PC, the MIND share, the Airbean server, and the player screens. Content Manager is a client-server application that is hosted on Airbean and access via remote connection from your office PC. Airbean (and Content Manager by association) cannot see any files on your office PC, which is why content must be uploaded from your office PC to the MIND share.
 
   ![Content_Managers_1](./images/Content_Managers_1.jpg)
-
+ yes
 ### Connecting to Airbean
 _________________________________________________________________________________________________
 Connecting to Airbean is the same process, regardless of which department you are from. It differs only in the operating system that you are using.
