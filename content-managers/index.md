@@ -3,6 +3,7 @@ title: Content Managers
 nav_order: 10
 ---
 ## Introduction
+--------------------------------------------------------------------------------------------------
 The Matador Information Network Display screens (herein referred to as “MIND”) are a network of 18 digital signage screens that are installed in various locations throughout the CSUN campus. These signage screens provide the CSUN community with information regarding campus events, resources, and promotions.
 
 There are a total of 28 digital signage screens spread across the campus. Associated Students I.T. (818-677-8888) manages all 28 screens with regards to the maintenance and repair of the hardware and software. Associated Students Marketing manages the content that is shown on the 18 MIND screens. The remaining 10 screens are owned by various departments on campus, who also manage their own content. Those departments share use of the MIND server to manage their digital signage screens.
