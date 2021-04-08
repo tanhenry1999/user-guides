@@ -1,5 +1,5 @@
 ---
-title: Content Managers
+title: Content Manager (users)
 nav_order: 10
 ---
 ## Introduction
