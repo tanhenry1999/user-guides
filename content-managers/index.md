@@ -24,7 +24,11 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 1. Sup
 
+![Content_Managers_2](./Content_Managers_2.png)
+
 2. Yes
+
+![Content_Managers_3](./Content_Managers_3.png)
 
 3. Yes
 
