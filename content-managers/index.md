@@ -24,7 +24,7 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
 1. Launch the Microsoft Remote Desktop app from Launchpad or the dock. (If you do not have the Microsoft Remote Desktop app, it's a free download from the Mac App Store).
 
-  ![Content_Managers_1](./Content_Managers_2.png)
+  ![Content_Managers_1](./images/Content_Managers_2.png)
 
 2. Click on the "New" button.
 
