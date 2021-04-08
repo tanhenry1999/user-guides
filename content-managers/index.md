@@ -26,15 +26,15 @@ Connecting to Airbean is the same process, regardless of which department you ar
 
   ![Content_Managers_1](./Content_Managers_2.png)
 
-2. Click on the "New" button.
+1. Click on the "New" button.
 
   ![Content_Managers_1](./images/Content_Managers_3.jpg)
 
-3. In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
+1. In the “Edit Remote Desktops window, enter “Airbean” for “connection name” and “airbean.csun.edu” for “PC name”. Leave the rest blank and/or as default. Once your done, click the red "close dot" in the upper left of the window.
 
   ![Content_Managers_1](./images/Content_Managers_4.jpg)
 
-4. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
+1. You should now see Airbean listed under “My Desktops”. Double-click on Airbean.
 
   ![Content_Managers_1](./images/Content_Managers_6.jpg)
 
