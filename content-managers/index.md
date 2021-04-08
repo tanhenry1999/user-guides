@@ -26,7 +26,14 @@ Connecting to Airbean is the same process, regardless of which department you ar
 2. Click on the "New" button.
 
 3. Hello
-4. 
+
+4. dasd
+
+5. dsadas
+
+6. dsadsa
+
+7. dsadsa
 
   ![Content_Managers_1](./images/Content_Managers_2.png)
 
