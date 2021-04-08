@@ -269,8 +269,6 @@ Any changes that are done in Content Manager and/or the Events CSV must be follo
 
 4. The deployment is now complete. Close Content Manager and log off of Airbean.
 
-  ![Content_Managers_1](./images/Content_Managers_43.jpg)
-
 ### AS Marketing
 (coming soon)
 
