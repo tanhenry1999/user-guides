@@ -173,8 +173,6 @@ If you take photos with the iPad while still signed into the File Browser app, t
 By default, the files in a folder are sorted by "date modified", in a "list" format.
 To change the sort order of items in a folder, simply tap the “sort” icon” and tap the appropriate options.
 
-	![iPad_36](./images/iPad-36.png)
-
 
 
 
