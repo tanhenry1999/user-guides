@@ -30,7 +30,8 @@ The purpose of this article is to teach users how to use Adobe Sign.
 6. You are now logged in to Adobe Sign.
 
    ![AdobeSign_6](./AdobeSign_6.jpg)
-   
+-JX
+
 ### How to Create and Send a Document
 
 1. Click "Send" at the top of the page or click on "Request Signatures"
@@ -78,6 +79,7 @@ The purpose of this article is to teach users how to use Adobe Sign.
 11. You will be redirected to this page to indicate that the document has been successfully created and sent
 
    ![AdobeSign_18](./AdobeSign_18.png)
+-JX
 
 ### How to Use Fill & Sign
 The purpose of this section is to show users how to upload a document or form to sign. The end result will be a PDF document that can be used to send to other users.
@@ -120,6 +122,7 @@ The purpose of this section is to show users how to upload a document or form to
 10. To access the completed document, it can be downloaded from this page. Another alternative is to find the document in the "Manage Tab" at the top of the screen.
 
    ![AdobeSign_28](./AdobeSign_28.png)
+-JX
 
 ### How to Replace a Recipient After a Document is Sent
 1. Login to Adobe Sign. Please refer to the instructions found here: http://www.csunas.org/it/AdobeSign#How_to_Login_to_Adobe_Sign
@@ -146,7 +149,7 @@ The purpose of this section is to show users how to upload a document or form to
 7. Once you click "Replace," the recipient will be changed
 
    ![AdobeSign_34](./AdobeSign_34.png)
-
+-JX
 
 
 
