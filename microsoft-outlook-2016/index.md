@@ -101,7 +101,8 @@ This is dependent on the CSV being created by Outlook using the steps above.
 Your email signature is specific to the email application that you use. For example, if you use the desktop version of Microsoft Outlook 2016 (accessed via the Start Menu), then your signature will "live" only in that application. If you were to open Microsoft Outlook Web Access (OWA) through a web browser, then your signature will not be there.
 
 To add or change your signature, follow the appropriate guide below.
-**Via Microsoft Outlook 2016 (Desktop Outlook)**
+
+*Via Microsoft Outlook 2016 (Desktop Outlook)*
 
 1. Open Outlook and click on the "File" tab.
 
@@ -150,8 +151,10 @@ To add or change your signature, follow the appropriate guide below.
 	![Outlook-30](./images/Outlook-30.jpg)
 
 4. Edit your signature in the text box, then click "Save" and click the "back arrow" in the upper-right-hand corner to return to your inbox.
-**Note 1: Microsoft OWA only allows for one signature.**
-**Note 2: You can check the two boxes (gray arrows) to automatically add your signature to any new emails and replies.**
+
+*Note 1: Microsoft OWA only allows for one signature.*
+
+*Note 2: You can check the two boxes (gray arrows) to automatically add your signature to any new emails and replies.*
 
 	![Outlook-31](./images/Outlook-31.jpg)
 
