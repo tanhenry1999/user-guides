@@ -175,3 +175,5 @@ To change the sort order of items in a folder, simply tap the “sort” icon”
 
 	![iPad_LAST](./images/iPad-LAST.png)
 
+Exit.
+
