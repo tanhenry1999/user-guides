@@ -10,7 +10,7 @@ The purpose of this Wiki is to document certain features of the Cisco Unity Voic
 
 ## Accessing Your Voicemail from Off Campus
 -----------------
-**Please note that the steps below will only work with touch-tone (push-button) phones. Rotary-dial (pulse-dial or pulse-tone) phones will not work!**
+*Please note that the steps below will only work with touch-tone (push-button) phones. Rotary-dial (pulse-dial or pulse-tone) phones will not work!*
 
 
 To access your voicemail, and any other settings and features, from off campus, follow the steps below:
