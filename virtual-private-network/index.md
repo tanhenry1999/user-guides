@@ -130,8 +130,6 @@ You can close the other windows and move the file to the trash.
 
 ## Installing the VPN Client on Windows 10
 --------------
-To change these settings, close or disconnect any "Splashtop" connections you might have open, and continue with the steps below.
-
 1. Open a web browser (Chrome, FireFox, ect.)
 
 	![VPN-30](./images/VPN-30.png)
