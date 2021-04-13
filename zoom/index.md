@@ -205,7 +205,7 @@ If you want to make someone else the host, follow the steps below.
 
 2. In the "More" menu, select "Manage Participants".
 
-	![Zoom-32.png](./images/Zoom-2.png)
+	![Zoom-32.png](./images/Zoom-32.png)
 
 3. Hover over the person you want to make a host and click on "More".
 
