@@ -52,10 +52,9 @@ All CSUN students, faculty, and staff can use the Virtual Private Network (VPN) 
 	![VPN-11](./images/VPN-11.png)
 
 11. Global Protect should open and you will need to type "vpn.csun.edu" and hit connect. It might ask you to enter your CSUN credentials.
-You can close the other windows and move the file to the trash.
 
 	![VPN-12](./images/VPN-12.png)
-
+You can close the other windows and move the file to the trash.
 12. Smething
 
 	![VPN-13](./images/VPN-13.png)
