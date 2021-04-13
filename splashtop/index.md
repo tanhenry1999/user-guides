@@ -8,7 +8,7 @@ nav_order: 10
 ## Installing SplashTop Client On a MAC
 
 -----------------
-1. 1. Launch Safari from the Dock
+1. Launch Safari from the Dock
 
 	![Splash-1](./images/Splash-1.png)
 
