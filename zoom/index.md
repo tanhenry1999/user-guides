@@ -235,7 +235,7 @@ As a host you can create the break room, and assign who you'll want to be in the
 
 2. There's 2 different ways the breakout room button will appear. Check which screen looks similar to yours and click on "Breakout Rooms".
 
-	![Zoom-36.png](./images/Zoom-3+.png)
+	![Zoom-36.png](./images/Zoom-36.png)
 
 	![Zoom-37.png](./images/Zoom-37.png)
 
@@ -287,7 +287,6 @@ To join different breakout rooms, follow the steps below.
 	![Zoom-45.png](./images/Zoom-45.png)
 
 2. Click on "Open All Rooms".
-
 *Note that the breakout rooms might already be open.*
 
 	![Zoom-46.png](./images/Zoom-46.png)
@@ -307,7 +306,7 @@ To join different breakout rooms, follow the steps below.
 
 **As a participant**
 
-###### Join a Breakout Room
+*Join a Breakout Room*
 
 To join a breakout room as a participant, follow the steps below.
 
@@ -327,12 +326,10 @@ To join a breakout room as a participant, follow the steps below.
 -ja,jx
 
 
-**Leave Breakout Room
+**Leave Breakout Room**
 
 To leave the breakout room make sure that your "Zoom window" is a large size. If your "Zoom window" is too small, the "Leave Breakout Room" button will not appear.
-
 If your screen is too small, click on the side of the window (The mouse will turn into two arrows on each side) and drag it bigger.
-
 See the example below.
 
 	![Zoom-52.png](./images/Zoom-52.png)
@@ -416,9 +413,7 @@ The meeting needs to have been scheduled. If you just start a meeting using "New
 	![Zoom-67.png](./images/Zoom-67.png)
 
 3. The web browser will appear. Fill in the information as needed.
-
 "(Optional) Check the box to make the poll anonymous, which will keep the participant's polling information anonymous in the meeting and in the reports.
-
 Select whether you want the question to be single choice(participants can only choose one answer) or multiple choice question(participants can choose multiple answers)."
 
 	![Zoom-68.png](./images/Zoom-68.png)
@@ -436,10 +431,9 @@ Select whether you want the question to be single choice(participants can only c
 
 
 **Creating the polls before scheduled meeting**
+
 If you scheduled a meeting and already enabled the polling feature.
-
 You can create the questions before the zoom session starts.
-
 1. Open web browser and go to https://zoom.us/signin
 
 	![Zoom-71.png](./images/Zoom-71.png)
@@ -459,20 +453,16 @@ You can create the questions before the zoom session starts.
 	![Zoom-75.png](./images/Zoom-75.png)
 
 5. Confirm that you're in "Meetings" and in "Upcoming Meetings".
-
 Click on the meeting topic.
 
 	![Zoom-76.png](./images/Zoom-76.png)
-
 
 6. Scroll to the bottom where it says "You have not created any poll yet." and click on add.
 
 	![Zoom-77.png](./images/Zoom-77.png)
 
 7. Enter a title for the poll. Fill in the questions, answers and click on "Save".
-
 "(Optional) Check the box to make the poll anonymous, which will keep the participant's polling information anonymous in the meeting and in the reports.
-
 Select whether you want the question to be single choice(participants can only choose one answer) or multiple choice question(participants can choose multiple answers)."
 
 	![Zoom-78.png](./images/Zoom-78.png)
@@ -483,7 +473,7 @@ Select whether you want the question to be single choice(participants can only c
 
 To update Zoom you need to make sure you're not in a Zoom Meeting.
 
-1.Click on the "Start" button and type in "Zoom" and click on "Start Zoom".
+1. Click on the "Start" button and type in "Zoom" and click on "Start Zoom".
 
 	![Zoom-79.png](./images/Zoom-79.png)
 
@@ -504,13 +494,11 @@ To update Zoom you need to make sure you're not in a Zoom Meeting.
 	![Zoom-84.png](./images/Zoom-84.png)
 
 When it's done downloading it'll give you the option to update now or later.
-
 Click on "Update".
 
 	![Zoom-85.png](./images/Zoom-85.png)
 
 Zoom should restart and open up again.
-
 If there's no update available it will say "you are up to date".
 
 	![Zoom-86.png](./images/Zoom-86.png)
@@ -659,7 +647,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 
 1. In order to open the breakout rooms click on "Breakout Rooms".
 
-	![Zoom-113.png](./images/Zoom-1212.png)
+	![Zoom-113.png](./images/Zoom-113.png)
 
 2. Click on "Open All Rooms" to open all the breakout rooms.
 
