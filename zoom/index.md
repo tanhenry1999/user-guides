@@ -1,5 +1,5 @@
 ---
-title: Virtual Private Network
+title: Zoom
 nav_order: 10
 ---
 ## Introduction
