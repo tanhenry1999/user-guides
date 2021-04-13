@@ -55,7 +55,7 @@ All CSUN students, faculty, and staff can use the Virtual Private Network (VPN) 
 
 You can close the other windows and move the file to the trash.
 
-	![VPN-12](./images/VPN-12.png)
+	![VPN-13](./images/VPN-13.png)
 
 12. Wait while the connection is being made. When it is successfully connected, you're all done!
 
@@ -63,7 +63,7 @@ You can close the other windows and move the file to the trash.
 
 -JA, JX
 
-##Installing the Remote Desktop App on MacOS
+## Installing the Remote Desktop App on MacOS
 ----------------------------
 
 1. Go to the Apple app store and search for "Microsoft Remote Desktop", select the app and click on it.
