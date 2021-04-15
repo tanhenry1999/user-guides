@@ -107,7 +107,7 @@ If you would like to resend a meeting invitation, follow the steps below.
 
 **Using the "Raise My Hand" Feature**
 
-###### As a Host
+**As a Host**
 
 If you are the host you'll be able to lower hands and view how many hands are raised.
 
@@ -222,11 +222,11 @@ If you want to make someone else the host, follow the steps below.
 "Breakout rooms are sessions that are split off from the main Zoom meeting. They allow the participants to meet in smaller groups. Breakout rooms can be used for collaboration and discussion of the meeting."
 
 
-###### As a host or co-host
+**As a host or co-host**
 
 As a host you can create the break room, and assign who you'll want to be in the break room. To create the break room follow the steps below,
 
-###### Creating Breakout Rooms
+**Creating Breakout Rooms**
 
 1. Click on "More". If "More" doesn't appear skip to step 2.
 
@@ -330,9 +330,7 @@ To join a breakout room as a participant, follow the steps below.
 To leave the breakout room make sure that your "Zoom window" is a large size. If your "Zoom window" is too small, the "Leave Breakout Room" button will not appear.
 If your screen is too small, click on the side of the window (The mouse will turn into two arrows on each side) and drag it bigger.
 See the example below.
-
 	![Zoom-52.png](./images/Zoom-52.png)
-
 	![Zoom-53.png](./images/Zoom-53.png)
 
 Follow the steps below to leave a "Breakout Room"
@@ -349,7 +347,7 @@ Follow the steps below to leave a "Breakout Room"
 -ja,jx
 
 
-**Using Polling Feature
+**Using Polling Feature**
 
 "The polling feature for meetings allows you to create single choice or multiple choice polling questions for your meetings. You will be able to launch the poll during your meeting and gather the responses from your attendees. You also have the ability to download a report of polling after the meeting."
 
@@ -359,7 +357,7 @@ There would be multiple choice questions created and the participants can vote. 
 
 If you make someone else the host they won't be able to create polls.
 
-###### Enabling the Polling Feature.
+**Enabling the Polling Feature**
 The Host of the meeting will need to have this feature enabled.
 
 1. Open web browser and go to https://zoom.us/signin
@@ -508,6 +506,7 @@ The purpose of this documentation is to create a Virtual Departmental Office for
 To create a departmental virtual office, follow the instructions below.
 
 **Required Zoom Settings for Main Host**
+
 These steps must be completed by the main host as described at the beginning of the section.
 
 1. On a desktop or laptop computer (NOT a mobile device such as a cell phone or iPad), log into the Zoom profile (web) settings at www.csun.zoom.us At the Zoom website, click "Manage Your Profile"
@@ -555,6 +554,7 @@ These steps must be completed by the main host as described at the beginning of 
 	![Zoom-98.jpg](./images/Zoom-98.jpg)
 
 **Create the Virtual Office Zoom Meeting**
+
 These steps must be completed by the main host, described at the beginning of the section.
 
 1. On a desktop or laptop computer (NOT a mobile device such as a cell phone or iPad), log into the Zoom profile (web) settings at www.csun.zoom.us
@@ -609,7 +609,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 
 -PA, JA, JX, CY
 
-##Start a Departmental Zoom Meeting and Join breakout Rooms##
+**Start a Departmental Zoom Meeting and Join breakout Rooms**
 
 1. Open up any web browser and search for "csun.zoom.us".
 
