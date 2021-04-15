@@ -27,7 +27,6 @@ This section describes using certain features of Zoom on the Windows 10 platform
 	![Zoom-3.jpg](./images/Zoom-3.jpg)
 
 **Launching Zoom**
-
 Once Zoom is installed, it can be launched by clicking the "Start" button and scrolling down to "Zoom".
 
 	![Zoom-4.jpg](./images/Zoom-4.jpg)
@@ -495,12 +494,9 @@ To update Zoom you need to make sure you're not in a Zoom Meeting.
 
 When it's done downloading it'll give you the option to update now or later.
 Click on "Update".
-
 	![Zoom-85.png](./images/Zoom-85.png)
-
 Zoom should restart and open up again.
 If there's no update available it will say "you are up to date".
-
 	![Zoom-86.png](./images/Zoom-86.png)
 
 -JA
