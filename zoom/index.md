@@ -27,8 +27,8 @@ This section describes using certain features of Zoom on the Windows 10 platform
 	![Zoom-3.jpg](./images/Zoom-3.jpg)
 
 **Launching Zoom**
-Once Zoom is installed, it can be launched by clicking the "Start" button and scrolling down to "Zoom".
 
+Once Zoom is installed, it can be launched by clicking the "Start" button and scrolling down to "Zoom".
 	![Zoom-4.jpg](./images/Zoom-4.jpg)
 
 **Joining a Zoom Meeting**
