@@ -4,7 +4,7 @@ title: Welcome!
 nav_order: 1
 ---
 
-# Welcome!
+# Welcome
 {: .no_toc }
 
 This Wiki is maintained by the Information Technology department of the Associated Students at California State University, Northridge.
