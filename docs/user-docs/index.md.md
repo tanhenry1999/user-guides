@@ -3,6 +3,7 @@ layout: default
 title: User Docs
 nav_order: 2
 has_children: true
+has_toc: false
 ---
 
 # User Docs
