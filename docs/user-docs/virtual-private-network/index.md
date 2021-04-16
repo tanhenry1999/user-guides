@@ -1,7 +1,7 @@
 ---
 title: Virtual Private Network
 nav_order: 14
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ---------------

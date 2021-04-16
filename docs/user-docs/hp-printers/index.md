@@ -1,7 +1,7 @@
 ---
 title: HP Printers (users)
 nav_order: 6
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ---------------------

@@ -1,7 +1,7 @@
 ---
 title: Adobe Sign
 nav_order: 1
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 The purpose of this article is to teach users how to use Adobe Sign.

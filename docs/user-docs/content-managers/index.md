@@ -1,7 +1,7 @@
 ---
 title: Content Manager (users)
 nav_order: 2
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 --------------------------------------------------------------------------------------------------

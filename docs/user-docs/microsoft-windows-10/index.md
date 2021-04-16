@@ -1,7 +1,7 @@
 ---
 title: Microsoft Windows 10 (users)
 nav_order: 10
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ---------------

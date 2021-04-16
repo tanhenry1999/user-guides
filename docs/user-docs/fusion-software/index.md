@@ -1,7 +1,7 @@
 ---
 title: Fusion Software (users)
 nav_order: 4
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ------------------

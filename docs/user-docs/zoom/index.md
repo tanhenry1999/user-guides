@@ -1,7 +1,7 @@
 ---
 title: Zoom
 nav_order: 15
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ---------------

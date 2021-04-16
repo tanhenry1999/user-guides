@@ -1,7 +1,7 @@
 ---
 title: Splashtop
 nav_order: 12
-parent: User Docs
+parent: User Guides
 ---
 ## Introduction
 ---------------
