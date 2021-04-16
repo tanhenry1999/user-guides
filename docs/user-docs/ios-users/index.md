@@ -1,6 +1,7 @@
 ---
 title: iOS (users)
 nav_order: 10
+parent: User Docs
 ---
 ## Introduction
 The purpose of this wiki is to guide the user through the process of changing certain settings in iOS.

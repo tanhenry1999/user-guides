@@ -3,7 +3,6 @@ layout: default
 title: User Docs
 nav_order: 2
 has_children: true
-parent: Welcome!
 ---
 
 # User Docs

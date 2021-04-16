@@ -1,6 +1,7 @@
 ---
 title: Microsoft Office 365 
 nav_order: 10
+parent: User Docs
 ---
 ## Introduction
 ---------------

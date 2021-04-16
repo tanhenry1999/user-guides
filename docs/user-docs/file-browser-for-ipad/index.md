@@ -1,6 +1,7 @@
 ---
 title: File Browser for iPad
 nav_order: 10
+parent: User Docs
 ---
 ## Introduction
 --------------------------------------------------------------------------

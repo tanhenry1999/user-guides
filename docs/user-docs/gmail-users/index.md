@@ -1,6 +1,7 @@
 ---
 title: Gmail
 nav_order: 10
+parent: User Docs
 ---
 ## Introduction
 The purpose of this wiki is to guide you through the process to change certain settings and features in your AS Gmail account.
