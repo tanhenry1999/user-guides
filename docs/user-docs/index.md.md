@@ -10,14 +10,3 @@ has_children: yes
 ---
 The follow displays available guides at the current time.
 {: .fs-6 .fw-300 }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
----
