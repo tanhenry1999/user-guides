@@ -2,7 +2,6 @@
 layout: default
 title: User Guides
 nav_order: 2
-has_children: yes
 ---
 
 # User Guides Index
