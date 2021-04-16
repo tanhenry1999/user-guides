@@ -16,4 +16,4 @@ The follow displays available guides at the current time.
 1. TOC
 {:toc}
 
-## [Zoom](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/zoom/)
+[Zoom](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/zoom/)
