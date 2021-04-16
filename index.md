@@ -18,3 +18,4 @@ Any questions or suggestions can be sent to: techsupport at csunas dot org.
 User Guides are easy-to-follow instructions for self-help and basic knowledge of supported IT applications and hardware.
 
 
+[Zoom]({{ site.baseurl }}{% link docs/index.md %})
