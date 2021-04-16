@@ -1,6 +1,7 @@
 ---
 title: Microsoft Outlook 2016
-nav_order: 10
+nav_order: 9
+parent: User Docs
 ---
 ## Introduction
 ---------------

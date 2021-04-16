@@ -1,6 +1,6 @@
 ---
 title: iOS (users)
-nav_order: 10
+nav_order: 7
 parent: User Docs
 ---
 ## Introduction

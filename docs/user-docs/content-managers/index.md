@@ -1,6 +1,6 @@
 ---
 title: Content Manager (users)
-nav_order: 10
+nav_order: 2
 parent: User Docs
 ---
 ## Introduction

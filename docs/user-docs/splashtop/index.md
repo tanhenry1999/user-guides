@@ -1,6 +1,7 @@
 ---
 title: Splashtop
-nav_order: 10
+nav_order: 12
+parent: User Docs
 ---
 ## Introduction
 ---------------
