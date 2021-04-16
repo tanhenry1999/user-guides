@@ -17,4 +17,4 @@ Any questions or suggestions can be sent to: techsupport at csunas dot org.
 ---
 User Guides are easy-to-follow instructions for self-help and basic knowledge of supported IT applications and hardware.
 
-[Zoom]({{ site.baseurl }}{% Zoom/index.md %})
+[This is a post](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/adobe_sign/)
