@@ -1,5 +1,4 @@
 ---
-layout: default
 title: User Guides
 nav_order: 2
 ---
