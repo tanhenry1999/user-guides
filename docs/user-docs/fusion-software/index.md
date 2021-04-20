@@ -1,16 +1,27 @@
 ---
+layout: default
 title: Fusion Software (users)
 nav_order: 4
 parent: User Guides
 ---
 ## Introduction
-------------------
+{: .no_toc }
 Fusion is a software application that is used by several entities on campus for activities related to student recreation.
 
 The supported version as of 3/20/2017 is 2.5.0.40. Please be sure that you have this version, otherwise Fusion will not work.
 
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Check Your Version
----------------------
+---
 Follow the steps below to check your version of Fusion.
 1. Open the Control Panel by right-clicking the Start button and clicking "Control Panel".
 
@@ -27,7 +38,7 @@ Follow the steps below to check your version of Fusion.
 
 
 ## Uninstalling Fusion
-----------------------
+---
 1. Open the Control Panel by right-clicking the Start button and clicking "Control Panel".
 
 	![Fusion-4](./images/Fusion-4.jpg)

@@ -1,17 +1,28 @@
 ---
+layout: default
 title: Zoom
 nav_order: 15
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 The purpose of this article is to show highlighted features of Zoom. Full documentation on using Zoom can be found at: https://www.csun.edu/it/zoom
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Zoom on Windows 10
 -----------------
 This section describes using certain features of Zoom on the Windows 10 platform.
 
-**Downloading and Installing Zoom**
+### Downloading and Installing Zoom 
 
 1. Go to https://csun.zoom.us/download
 
@@ -27,12 +38,12 @@ This section describes using certain features of Zoom on the Windows 10 platform
 
 	![Zoom-3.jpg](./images/Zoom-3.jpg)
 
-**Launching Zoom**
+###  Launching Zoom
 
 Once Zoom is installed, it can be launched by clicking the "Start" button and scrolling down to "Zoom".
 	![Zoom-4.jpg](./images/Zoom-4.jpg)
 
-**Joining a Zoom Meeting**
+### Joining a Zoom Meeting
 
 If you received an email invitation to a Zoom meeting, simply click on the link in the invitation.
 
@@ -48,7 +59,7 @@ If you did not receive an invitation, ask the meeting organizer for the meeting 
 
 	![Zoom-6.jpg](./images/Zoom-6.jpg)
 
-**Hosting a Zoom Meeting**
+###  Hosting a Zoom Meeting 
 
 1. Launch Zoom.
 
@@ -86,7 +97,7 @@ If you did not receive an invitation, ask the meeting organizer for the meeting 
 
 10. Open your email application (Outlook, Gmail, Apple Mail), compose a new email, and paste the meeting information. Send the meeting information via email to whomever needs to attend the meeting.
 
-**Finding Your Meeting ID**
+### Finding Your Meeting ID 
 
 If you are the Meeting Organizer and need to find the meeting ID for a meeting that you scheduled, follow the steps below.
 
@@ -94,7 +105,7 @@ If you are the Meeting Organizer and need to find the meeting ID for a meeting t
 
 2. On your home screen, any scheduled and upcoming meetings will show on the right-side of the screen, with the Meeting ID. Give this Meeting ID to anyone that needs to join.
 
-**Resend a Meeting Invitation**
+### Resend a Meeting Invitation 
 
 If you would like to resend a meeting invitation, follow the steps below.
 
@@ -106,9 +117,9 @@ If you would like to resend a meeting invitation, follow the steps below.
 
 4. Open your email application (Outlook, Gmail, Apple Mail), compose a new email, and paste the meeting information. Send the meeting information via email to whomever needs to attend the meeting.
 
-**Using the "Raise My Hand" Feature**
+### Using the "Raise My Hand" Feature 
 
-**As a Host**
+#### As a Host 
 
 If you are the host you'll be able to lower hands and view how many hands are raised.
 
@@ -137,7 +148,7 @@ To lower hands, follow the steps below.
 -ja,jx
 
 
-**As a Participant**
+#### As a Participant 
 
 If you're a participant and you would like to raise your hand, follow the steps bellow.
 
@@ -159,7 +170,7 @@ If you're a participant and you would like to raise your hand, follow the steps 
 
 -ja,jx
 
-**Adding Alternate Hosts**
+### Adding Alternate Hosts 
 
 If you are scheduling a Zoom meeting and you want to add an alternate host, follow the steps below.
 
@@ -186,14 +197,14 @@ If you are scheduling a Zoom meeting and you want to add an alternate host, foll
 	![Zoom-29.png](./images/Zoom-29.png)
 
 6. In "Alternative Hosts" enter the email address of the alternate host you want to add, and continue with the scheduling.
-**The alternative host will receive an email letting them know that they have been added as an alternative host.**
+### The alternative host will receive an email letting them know that they have been added as an alternative host. 
 
 	![Zoom-30.png](./images/Zoom-30.png)
 
 -ja,jx
 
 
-**Giving Host Control to Someone**
+### Giving Host Control to Someone 
 
 If you are the host, you can make someone else the host. You'll then turn into a participant with no host privileges, but you can regain host controls if you started the meeting.
 
@@ -218,16 +229,16 @@ If you want to make someone else the host, follow the steps below.
 -ja,jx
 
 
-**Breakout Room**
+### Breakout Room 
 
 "Breakout rooms are sessions that are split off from the main Zoom meeting. They allow the participants to meet in smaller groups. Breakout rooms can be used for collaboration and discussion of the meeting."
 
 
-**As a host or co-host**
+#### As a host or co-host 
 
 As a host you can create the break room, and assign who you'll want to be in the break room. To create the break room follow the steps below,
 
-**Creating Breakout Rooms**
+##### Creating Breakout Rooms 
 
 1. Click on "More". If "More" doesn't appear skip to step 2.
 
@@ -253,7 +264,7 @@ As a host you can create the break room, and assign who you'll want to be in the
 
 -ja,jx
 
-**Move participants in Breakrooms**
+##### Move participants in Breakrooms 
 
 You will need to have more then one breakout room to move participants.
 
@@ -274,7 +285,7 @@ To move participants to different breakout rooms, follow the steps below,
 -ja,jx
 
 
-**Joining different breakout rooms**
+##### Joining different breakout rooms 
 
 As the host, you're able to join different breakout rooms after they have been created and opened. Follow the instructions from above to create breakout rooms and open them.
 
@@ -304,9 +315,9 @@ To join different breakout rooms, follow the steps below.
 
 -ja,jx
 
-**As a participant**
+#### As a participant 
 
-*Join a Breakout Room*
+##### Join a Breakout Room
 
 To join a breakout room as a participant, follow the steps below.
 
@@ -326,7 +337,7 @@ To join a breakout room as a participant, follow the steps below.
 -ja,jx
 
 
-**Leave Breakout Room**
+##### Leave Breakout Room 
 
 To leave the breakout room make sure that your "Zoom window" is a large size. If your "Zoom window" is too small, the "Leave Breakout Room" button will not appear.
 If your screen is too small, click on the side of the window (The mouse will turn into two arrows on each side) and drag it bigger.
@@ -348,7 +359,7 @@ Follow the steps below to leave a "Breakout Room"
 -ja,jx
 
 
-**Using Polling Feature**
+### Using Polling Feature 
 
 "The polling feature for meetings allows you to create single choice or multiple choice polling questions for your meetings. You will be able to launch the poll during your meeting and gather the responses from your attendees. You also have the ability to download a report of polling after the meeting."
 
@@ -358,7 +369,7 @@ There would be multiple choice questions created and the participants can vote. 
 
 If you make someone else the host they won't be able to create polls.
 
-**Enabling the Polling Feature**
+#### Enabling the Polling Feature 
 The Host of the meeting will need to have this feature enabled.
 
 1. Open web browser and go to https://zoom.us/signin
@@ -395,7 +406,7 @@ Now when you schedule a meeting the polling feature will be available.
 
 -JA
 
-Creating the polls *In Progress Meeting*
+#### Creating the polls *In Progress Meeting
 The meeting needs to have been scheduled. If you just start a meeting using "New Meeting", the polls feature won't appear.
 
 1. Click on "Polls" or on "More" if "Polls" doesn't appear.
@@ -428,7 +439,7 @@ Select whether you want the question to be single choice(participants can only c
 -JA
 
 
-**Creating the polls before scheduled meeting**
+#### Creating the polls before scheduled meeting 
 
 If you scheduled a meeting and already enabled the polling feature.
 You can create the questions before the zoom session starts.
@@ -467,7 +478,7 @@ Select whether you want the question to be single choice(participants can only c
 
 -JA
 
-**Update Zoom**
+### Update Zoom 
 
 To update Zoom you need to make sure you're not in a Zoom Meeting.
 
@@ -500,13 +511,13 @@ If there's no update available it will say "you are up to date".
 
 -JA
 
-**How to Create a Departmental Virtual Office**
+### How to Create a Departmental Virtual Office 
 
 The purpose of this documentation is to create a Virtual Departmental Office for users in the department to constantly use for their meetings. One designee (a person) will have to be selected. This designee will be the primary host of the Virtual Office meeting. Additional "alternate" hosts can be added, but the designee retains authority to reclaim the position of host of the Virtual Office at any time. The designee will also have to make modifications to their Zoom profile settings, as described below. Once the designee (from here on called "main host") is chosen, that host will have to complete the meeting settings below. Although not required, it is HIGHLY recommended that the main host change their Personal Meeting ID to match that of their department's phone number. The department phone number to use must be decided before continuing.
 
 To create a departmental virtual office, follow the instructions below.
 
-**Required Zoom Settings for Main Host**
+##### Required Zoom Settings for Main Host 
 
 These steps must be completed by the main host as described at the beginning of the section.
 
@@ -554,7 +565,7 @@ These steps must be completed by the main host as described at the beginning of 
 
 	![Zoom-98.jpg](./images/Zoom-98.jpg)
 
-**Create the Virtual Office Zoom Meeting**
+#### Create the Virtual Office Zoom Meeting 
 
 These steps must be completed by the main host, described at the beginning of the section.
 
@@ -600,7 +611,7 @@ These steps must be completed by the main host, described at the beginning of th
 
 	![Zoom-105.jpg](./images/Zoom-105.jpg)
 
-**Using the Virtual Office**
+#### Using the Virtual Office 
 
 Any of the Alternative Hosts can start ("open") the Virtual Office at any time. If an Alternative Host joins the meeting ("opens" the Virtual Office) before the Main Host, that Alternative Host will join as the Host. However, the Main Host can join the meeting at any time, and only the Main Host has authority to reclaim the position of Host at any time. Only one person can be given the position of Host at any time.
 
@@ -610,7 +621,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 
 -PA, JA, JX, CY
 
-**Start a Departmental Zoom Meeting and Join breakout Rooms**
+### Start a Departmental Zoom Meeting and Join breakout Rooms 
 
 1. Open up any web browser and search for "csun.zoom.us".
 
@@ -640,7 +651,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 
 	![Zoom-112.png](./images/Zoom-112.png)
 
-**Assign participants to breakout rooms as the host in the departmental virtual office**
+### Assign participants to breakout rooms as the host in the departmental virtual office 
 
 1. In order to open the breakout rooms click on "Breakout Rooms".
 
@@ -674,7 +685,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 	
 	![Zoom-120.png](./images/Zoom-120.png)
 	
-**Join a breakout room in the departmental virtual office as a participant**
+### Join a breakout room in the departmental virtual office as a participant 
 
 1. To join a breakout room as a participant, click and open the "Breakout Rooms" to open the breakout rooms window.
 
@@ -708,7 +719,7 @@ To create and use breakout rooms, please refer to the instructions found here: h
 
 	![Zoom-128.png](./images/Zoom-128.png)
 
-**Zoom Report**
+### Zoom Report 
 
 Viewing the zoom report will allow you to see the participants that joined, duration of meeting, join time, and leave time for each participants.
 
@@ -746,6 +757,6 @@ Viewing the zoom report will allow you to see the participants that joined, dura
 
 	![Zoom-138.png](./images/Zoom-138.png)
 
-Zoom on iOS 10.3.3+
+## Zoom on iOS 10.3.3+
 
 -------------------------

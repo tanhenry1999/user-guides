@@ -1,12 +1,22 @@
 ---
+layout: default
 title: Virtual Private Network
 nav_order: 14
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 All CSUN students, faculty, and staff can use the Virtual Private Network (VPN) to access intranet-only resources from anywhere in the world. Additionally, the VPN can be used in conjunction with Remote Desktop to connect to your office computer remotely. Remote access must be granted via a request to AS-IT. If you have been given permission for remote access, follow the steps below to install the VPN client and the Remote Desktop application on your home computer. You will need administrator privileges on your home computer, as well as the name of your office computer, which AS-IT can provide.
 
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Installing the VPN Client on MacOS
 -----------------

@@ -1,18 +1,29 @@
 ---
+layout: default
 title: Microsoft Windows 10 (users)
 nav_order: 10
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 The purpose of this wiki is to guide you through common requests that we've received to change features on Windows 10.
 
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Default PDF Viewer
 -----------------
 The default PDF viewer in Windows 10 is Microsoft Edge.
 
-**Check and Change Your Default PDF Viewer**
+### Check and Change Your Default PDF Viewer
 1. Find a PDF document, right-click it, and click on "Properties".
 
 	![Win10-1](./images/Win10-1.jpg)

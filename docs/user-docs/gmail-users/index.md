@@ -1,10 +1,22 @@
 ---
+layout: default
 title: Gmail
 nav_order: 5
 parent: User Guides
 ---
 ## Introduction
+{: .no_toc }
 The purpose of this wiki is to guide you through the process to change certain settings and features in your AS Gmail account.
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Display Name
 Your display name is the name that appears as the sender's name when you send emails from your AS Gmail account. Display names are configured by Associated Students IT, but users have the option of changing their display name separately. If your display name is incorrect, follow the steps below to check and change your display name.

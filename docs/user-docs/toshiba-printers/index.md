@@ -1,13 +1,22 @@
 ---
+layout: default
 title: Toshiba Printers (users)
 nav_order: 13
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 This Wiki includes some tips that we found to be helpful with using the printers.
 
+---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Scanning Documents on the 6515 MFP
 -----------------

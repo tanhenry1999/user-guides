@@ -1,13 +1,22 @@
 ---
+layout: default
 title: Phone and Voicemail (users)
 nav_order: 11
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 The purpose of this Wiki is to document certain features of the Cisco Unity Voice Over IP (VOIP) phone system used at CSUN.
 
+---
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Accessing Your Voicemail from Off Campus
 -----------------

@@ -1,10 +1,23 @@
 ---
+layout: default
 title: Splashtop
 nav_order: 12
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
+The purpose of this article is to teach users how to use Splashtop.
+
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Installing SplashTop Client On a MAC
 

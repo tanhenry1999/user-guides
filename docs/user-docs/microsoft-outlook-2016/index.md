@@ -1,12 +1,22 @@
 ---
+layout: default
 title: Microsoft Outlook 2016
 nav_order: 9
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 The purpose of this article is to document helpful tips that we've come across or have been asked about with using Outlook 2016 for Windows.
 
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 
 ## Creating a New Contacts Folder

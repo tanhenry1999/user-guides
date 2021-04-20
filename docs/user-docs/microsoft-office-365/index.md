@@ -1,11 +1,25 @@
 ---
+layout: default
 title: Microsoft Office 365 
 nav_order: 8
 parent: User Guides
 ---
 ## Introduction
----------------
+{: .no_toc }
 The purpose of this article is to show highlighted features of Microsoft Office 365.
+
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 
 
 ## Microsoft Office for Faculty & Staff Personal Devices

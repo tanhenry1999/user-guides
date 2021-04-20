@@ -1,11 +1,23 @@
 ---
+layout: default
 title: HP Printers (users)
 nav_order: 6
 parent: User Guides
 ---
 ## Introduction
----------------------
+{: .no_toc }
 This Wiki goes over some common issues with AS' HP printers and how to resolve them. It also includes some tips that we found to be helpful with using the printers.
+
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Scanning Double-Sided Documents
 Scanning double-sided documents allows you to scan both sides of a sheet of paper and have them be in the same PDF. There are two ways to scan double-sided documents. The first is using the Automatic Document Feeder (ADF). The ADF works only with loose-leaf paper. The second is using the flatbed scanner, which is generally reserved for scans that will not fit through the ADF (such as pages from a textbook).
@@ -20,7 +32,8 @@ The following printers are capable of scanning double-sided documents automatica
 	-Outdoor Adventures 525
 	-Recycling 525
 
-**Using the ADF**
+### Using the ADF
+
 These instructions were created using a 525 as an example. The 6040 is a similar process.
 1. Load your documents into the ADF on the top of the printer. Please note that the ADF pulls pages from the top of the stack down, so the first page of your document should be on top of the stack, and the last page on the bottom of the stack.
 2. Tap the "Save to Network Folder" icon.

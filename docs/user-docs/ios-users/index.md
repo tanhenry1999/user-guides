@@ -1,10 +1,23 @@
 ---
+layout: default
 title: iOS (users)
 nav_order: 7
 parent: User Guides
 ---
 ## Introduction
+{: .no_toc }
 The purpose of this wiki is to guide the user through the process of changing certain settings in iOS.
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ### Changing default photo settings from HEIC to JPEG
 
 

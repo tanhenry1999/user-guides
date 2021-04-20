@@ -1,11 +1,22 @@
 ---
+layout: default
 title: File Browser for iPad
 nav_order: 3
 parent: User Guides
 ---
 ## Introduction
---------------------------------------------------------------------------
+{: .no_toc }
 File Browser allows your iPad to connect directly to the X-Drive over WiFi. This gives the capability to copy almost any sort of file, including photos and videos, from your iPad straight to the X-Drive. This document goes over how to do just that, as well as using some of File Browser’s other features.
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Initial Setup
 **The steps below are for your reference only. Your IT department will complete this portion.**
@@ -33,7 +44,7 @@ File Browser allows your iPad to connect directly to the X-Drive over WiFi. This
 
 	![iPad_6](./images/iPad-6.png)
 
-##Connecting to the X-Drive and Copying Photos
+## Connecting to the X-Drive and Copying Photos
 --------------------------------------------------------------------------
 1. Open the FileBrowser app on your iPad.
 
@@ -115,7 +126,7 @@ File Browser allows your iPad to connect directly to the X-Drive over WiFi. This
 
 	![iPad_25](./images/iPad-25.png)
 
-##Other Helpful Features
+## Other Helpful Features
 --------------------------------------------------------------------------
 This section goes over additional features of the File Browser app that we found to be useful.
 
@@ -170,10 +181,8 @@ If you take photos with the iPad while still signed into the File Browser app, t
 
 
 **Changing the Sort Order and Viewing Options**
-
 By default, the files in a folder are sorted by "date modified", in a "list" format.
 To change the sort order of items in a folder, simply tap the “sort” icon” and tap the appropriate options.
-
 	![iPad_LAST](./images/iPad-LAST.png)
 
 Exit.

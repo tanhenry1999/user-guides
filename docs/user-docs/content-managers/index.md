@@ -1,24 +1,35 @@
 ---
+layout: default
 title: Content Manager (users)
 nav_order: 2
 parent: User Guides
 ---
 ## Introduction
---------------------------------------------------------------------------------------------------
+{: .no_toc }
 The Matador Information Network Display screens (herein referred to as “MIND”) are a network of 18 digital signage screens that are installed in various locations throughout the CSUN campus. These signage screens provide the CSUN community with information regarding campus events, resources, and promotions.
 
 There are a total of 28 digital signage screens spread across the campus. Associated Students I.T. (818-677-8888) manages all 28 screens with regards to the maintenance and repair of the hardware and software. Associated Students Marketing manages the content that is shown on the 18 MIND screens. The remaining 10 screens are owned by various departments on campus, who also manage their own content. Those departments share use of the MIND server to manage their digital signage screens.
 
 This guide goes over the process to log into the MIND server (known as “Airbean”) and some of the functions of Content Manager. It also includes the steps to add, schedule, remove, delete, and otherwise update the content on the various templates that powers the MIND screens.
 
-## Network Diagram
---------------------------------------------------------------------------------------------------
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+### Network Diagram
+---
 This Microsoft Paint diagram visualizes the relationship between your office PC, the MIND share, the Airbean server, and the player screens. Content Manager is a client-server application that is hosted on Airbean and access via remote connection from your office PC. Airbean (and Content Manager by association) cannot see any files on your office PC, which is why content must be uploaded from your office PC to the MIND share.
 
   ![Content_Managers_1](./images/Content_Managers_1.jpg)
 
 ### Connecting to Airbean
---------------------------------------------------------------------------------------------------
+---
 Connecting to Airbean is the same process, regardless of which department you are from. It differs only in the operating system that you are using.
 
 ### Connecting from MacOS
