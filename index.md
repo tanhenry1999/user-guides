@@ -19,3 +19,9 @@ Any questions or suggestions can be sent to: techsupport at csunas dot org.
 User Guides are easy-to-follow instructions for self-help and basic knowledge of supported IT applications and hardware.
 
 [User Guides Index](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/index.md.html)
+
+## Technical Docs
+---
+Technical Documents are detailed instructions for experienced I.T. technicians to use for setup, configuration, and troubleshooting of various hardware and software applications.
+
+[Technical Docs Index](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/)

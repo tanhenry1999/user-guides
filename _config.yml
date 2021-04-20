@@ -7,4 +7,3 @@ plugins:
   - jekyll-feed
 
 color_scheme: csun
-theme: "just-the-docs"
