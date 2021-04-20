@@ -6,6 +6,7 @@ gem "github-pages", group: :jekyll_plugins
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
+  gem "jekyll"
 end
 
 # Performance-booster for watching directories on Windows
