@@ -29,5 +29,5 @@ Users should call us before attempting any of the procedures contained herein.
 
 **S**
 
-- [SCCM](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/index.md.html)
+- [SCCM](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/)
 
