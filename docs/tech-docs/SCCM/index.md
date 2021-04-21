@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SCCM
+title: SCCM1
 parent: Technical Documents
 has_children: yes
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SCCM Guide
-parent: SCCM
+parent: SCCM1
 ---
 
 ## SCCM

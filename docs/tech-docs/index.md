@@ -22,11 +22,11 @@ Users should call us before attempting any of the procedures contained herein.
 
 **C**
 
-- [CC Kiosk Setup]
+- [CC Kiosk Setup](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/cc-kiosk-setup/)
 
 **J**
 
-- [JAMF]
+- [JAMF](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/JAMF/)
 
 **S**
 

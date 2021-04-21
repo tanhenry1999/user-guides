@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Application Management
-parent: SCCM
+parent: SCCM1
 has_children: yes
 ---
 
