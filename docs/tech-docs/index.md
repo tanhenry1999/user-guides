@@ -2,6 +2,7 @@
 layout: default
 title: Technical Documents
 nav_order: 3
+has_children: yes
 ---
 
 # Technical Documents
@@ -16,13 +17,18 @@ Users should call us before attempting any of the procedures contained herein.
 
 
 
-## Subcategories
+## Index
 ---
-This category has only the following subcategory.
+
+**C**
+
+- [CC Kiosk Setup]
+
+**J**
+
+- [JAMF]
 
 **S**
 
 - [SCCM](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/index.md.html)
-
-
 
