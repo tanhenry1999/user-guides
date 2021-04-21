@@ -165,8 +165,8 @@ To add or change your signature, follow the appropriate guide below.
 
 *Note 1: Microsoft OWA only allows for one signature.*
 
-*Note 2: You can check the two boxes (gray arrows) to automatically add your signature to any new emails and replies.*
 
+*Note 2: You can check the two boxes (gray arrows) to automatically add your signature to any new emails and replies.*
 	![Outlook-31](./images/Outlook-31.jpg)
 
 

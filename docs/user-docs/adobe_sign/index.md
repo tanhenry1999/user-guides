@@ -140,30 +140,32 @@ The purpose of this section is to show users how to upload a document or form to
 -JX
 
 ### How to Replace a Recipient After a Document is Sent
-1. Login to Adobe Sign. Please refer to the instructions found here: http://www.csunas.org/it/AdobeSign#How_to_Login_to_Adobe_Sign
+
+1. Login to Adobe Sign. Please refer to the instructions found [here](http://www.csunas.org/it/AdobeSign#How_to_Login_to_Adobe_Sign).
+
 2. Click on the “Manage” tab.
 
-   ![AdobeSign_29](./AdobeSign_29.png)
+   ![AdobeSign_29](./AdobeSign_29.jpg)
 
 3. In the “In Progress” section, look for the document that needs to be changed and click on the document
 
-   ![AdobeSign_30](./AdobeSign_30.png)
+   ![AdobeSign_30](./AdobeSign_30.jpg)
 
 4. When you click on the document, a menu on the side will pop up. At the bottom, hover over the signer’s name and email address
 
-   ![AdobeSign_31](./AdobeSign_31.png)
+   ![AdobeSign_31](./AdobeSign_31.jpg)
 
 5. A small window will appear next to the recipient's name. Click on “Replace Recipient”
 
-   ![AdobeSign_32](./AdobeSign_32.png)
+   ![AdobeSign_32](./AdobeSign_32.jpg)
 
 6. Insert the email address of the new recipient and then click "Replace." NOTE: You cannot replace the recipient with someone who was a recipient of the document in the past
 
-   ![AdobeSign_33](./AdobeSign_33.png)
+   ![AdobeSign_33](./AdobeSign_33.jpg)
 
 7. Once you click "Replace," the recipient will be changed
 
-   ![AdobeSign_34](./AdobeSign_34.png)
+   ![AdobeSign_34](./AdobeSign_34.jpg)
 -JX
 
 
