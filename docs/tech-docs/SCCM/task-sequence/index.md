@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task Sequence
-parent: SCCM1
+parent: SCCM
 ---
 
 ## Task Sequence

@@ -2,7 +2,6 @@
 layout: default
 title: Technical Documents
 nav_order: 3
-has_children: yes
 ---
 
 # Technical Documents

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Application Management
-parent: SCCM1
-has_children: yes
+parent: SCCM
 ---
 
 ## Application Management
@@ -14,11 +13,11 @@ has_children: yes
 
 **A**
 
-- [Adobe Reader]
+- [Adobe Reader](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/adobe-reader/)
 
 **C**
 
-- [Chrome]
+- [Chrome](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/chrome/)
 
 **O**
 
@@ -34,4 +33,4 @@ has_children: yes
 
 **F**
 
-- [Firefox]
+- [Firefox](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/firefox/)

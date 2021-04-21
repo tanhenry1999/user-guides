@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SCCM1
+title: SCCM
 parent: Technical Documents
-has_children: yes
 ---
 ## SCCM
 {: .no_toc }
@@ -12,14 +11,14 @@ The following 3 pages are in this category, out of 3 total.
 
 **A**
 
-- [Application Management]
+- [Application Management](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/app-management/)
 
 **S**
 
-- [SCCM]
+- [SCCM](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/SCCM-Guide/)
 
 **T**
 
-- [Task Sequence]
+- [Task Sequence](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/task-sequence/)
 
 
