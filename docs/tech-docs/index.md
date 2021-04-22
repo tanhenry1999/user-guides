@@ -23,6 +23,10 @@ Users should call us before attempting any of the procedures contained herein.
 
 - [CC Kiosk Setup](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/cc-kiosk-setup/)
 
+**G**
+
+- [
+
 **J**
 
 - [JAMF](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/JAMF/)
