@@ -22,5 +22,4 @@ This technical document is intended for instruction on how to use the AS Monthly
 1. Navigate to:
 	- -> Google Drive -> Accounting
 	- -> AS Monthly Budget Reports
-
 	![gd-1](./images/gd-1.png)
