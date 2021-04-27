@@ -1,5 +1,5 @@
 title: User Guides
-baseurl: "/ex-user-guides" # the subpath of your site, e.g. /blog
+baseurl: "/user-guides" # the subpath of your site, e.g. /blog
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
