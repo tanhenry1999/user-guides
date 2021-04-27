@@ -2,6 +2,7 @@
 layout: default
 title: AS Budget Sheets
 nav_order: 3
+parent: Technical Documents
 ---
 ## Introduction
 {: .no_toc }
