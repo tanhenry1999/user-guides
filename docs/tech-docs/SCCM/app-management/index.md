@@ -13,11 +13,11 @@ parent: SCCM
 
 **A**
 
-- [Adobe Reader](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/app-management/adobe-reader/)
+- [Adobe Reader](https://tanhenry1999.github.io/user-guides/docs/tech-docs/SCCM/app-management/adobe-reader/)
 
 **C**
 
-- [Chrome](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/app-management/chrome/)
+- [Chrome](https://tanhenry1999.github.io/user-guides/docs/tech-docs/SCCM/app-management/chrome/)
 
 **O**
 
@@ -33,4 +33,4 @@ parent: SCCM
 
 **F**
 
-- [Firefox](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/app-management/firefox/)
+- [Firefox](https://tanhenry1999.github.io/user-guides/docs/tech-docs/SCCM/app-management/firefox/)

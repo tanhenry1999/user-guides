@@ -22,17 +22,17 @@ Users should call us before attempting any of the procedures contained herein.
 
 **C**
 
-- [CC Kiosk Setup](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/cc-kiosk-setup/)
+- [CC Kiosk Setup](https://tanhenry1999.github.io/user-guides/docs/tech-docs/cc-kiosk-setup/)
 
 **G**
 
-- [Google Drive](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/google-drive/)
+- [Google Drive](https://tanhenry1999.github.io/user-guides/docs/tech-docs/google-drive/)
 
 **J**
 
-- [JAMF](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/JAMF/)
+- [JAMF](https://tanhenry1999.github.io/user-guides/docs/tech-docs/JAMF/)
 
 **S**
 
-- [SCCM](https://tanhenry1999.github.io/ex-user-guides/docs/tech-docs/SCCM/)
+- [SCCM](https://tanhenry1999.github.io/user-guides/docs/tech-docs/SCCM/)
 

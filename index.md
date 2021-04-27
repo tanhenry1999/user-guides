@@ -18,4 +18,4 @@ Any questions or suggestions can be sent to: techsupport at csunas dot org.
 ---
 User Guides are easy-to-follow instructions for self-help and basic knowledge of supported IT applications and hardware.
 
-### [User Guides Index](https://tanhenry1999.github.io/ex-user-guides/docs/user-docs/index.md.html)
+### [User Guides Index](https://tanhenry1999.github.io/user-guides/docs/user-docs/index.md.html)
