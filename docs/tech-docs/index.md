@@ -2,6 +2,7 @@
 layout: default
 title: Technical Documents
 nav_order: 3
+parent: Docs
 ---
 
 # Technical Documents
