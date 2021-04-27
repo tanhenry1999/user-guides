@@ -18,7 +18,6 @@ This technical document is intended for instruction on how to use the AS Monthly
 ---
 
 ## Location on Google Drive
-
 1. Navigate to:
 	- -> Google Drive -> Accounting
 	- -> AS Monthly Budget Reports
