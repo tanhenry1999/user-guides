@@ -23,4 +23,4 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
 1. Go to https://acrobat.adobe.com/us/en/sign.html and click on “Sign In”
 
-   ![gdd-1](./images/gdd-1.png)
+   ![gdd-1](./images/gdd-1.jpg)
