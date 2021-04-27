@@ -21,6 +21,6 @@ The purpose of this article is to teach users how to use Adobe Sign.
 
 ### How to Login to Adobe Sign
 
-1. Go to https://acrobat.adobe.com/us/en/sign.html and click on “Sign In”
+1. Go to https://acrobat.adobe.com/us/en/sign.html and click on “Sign In” dsadsa
 
    ![AdobeSign_2](./images/AdobeSign_2.png)
