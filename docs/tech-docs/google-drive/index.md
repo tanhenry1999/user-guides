@@ -5,4 +5,4 @@ nav_order: 3
 ---
 
 
-![gd-1](./gd-1.png)
+![gd-1](./images/gd-1.png)
